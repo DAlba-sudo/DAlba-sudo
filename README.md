@@ -1,16 +1,17 @@
-### Hi there 👋
+## InfoSec Specialist in Training 🖥️📡
+<hr>
 
-<!--
-**DAlba-sudo/DAlba-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hey!** I am Diego Alba. I love watching movies with a good mix of suspense and comedy - something like *Get Out (Jordan Peele)*. But that's <u>neither here nor there</u>. 
 
-Here are some ideas to get you started:
+- I fell in love with cybersecurity when I moved from a prior data analysis job to being a security analyst.
+- Since most of my work is from the defensive perspective, I enjoy making tools that help SOC Analysts.
+    - I also make malware for purely educational purposes...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some more information!
+- 🔭 I’m currently working on <a href="https://github.com/DAlba-sudo/In-Former">this malicious google extension (for educational purposes)</a>.
+- 🌱 I’m currently learning <a href="https://foundation.rust-lang.org/">Rust🦀</a>.
+- 👯 I’m looking to collaborate on <a>any cyber-related projects</a>.
+- 💬 Ask me about <a>anything</a>.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dalbasudo/">LinkedIn</a>.
+- ⚡ Fun fact: <a>coffee doesn't grow on trees</a>.
+
