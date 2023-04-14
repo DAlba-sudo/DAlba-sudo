@@ -1,4 +1,10 @@
 ## InfoSec Specialist in Training 🖥️📡
+
+<div style="display: inline-block;">
+
+<a href="https://www.linkedin.com/in/dalbasudo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
 <hr>
 
 **Hey!** I am Diego Alba. I love watching movies with a good mix of suspense and comedy - something like *Get Out (Jordan Peele)*. But that's <u>neither here nor there</u>. 
