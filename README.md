@@ -7,7 +7,7 @@
 
 <hr>
 
-**Hey!** I am Diego Alba. I love watching movies with a good mix of suspense and comedy - something like *Get Out (Jordan Peele)*. But that's <u>neither here nor there</u>. 
+> **Hey!** I am Diego Alba.
 
 - I fell in love with cybersecurity when I moved from a prior data analysis job to being a security analyst.
 - Since most of my work is from the defensive perspective, I enjoy making tools that help SOC Analysts.
