@@ -24,3 +24,4 @@ Some more information!
 
 If you have any job openings available for software engineering, and want a software developer with experience, exposure, and a breadth of context, I am your guy. Hit up my LinkedIn!
 
+Thanks for reading!
